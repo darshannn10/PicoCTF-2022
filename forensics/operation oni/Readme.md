@@ -47,6 +47,7 @@ chmod 600 key_file
 
 ssh -i key_file -p 62686 ctf-player@saturn.picoctf.net
 ```
+![2022-12-04_18-05](https://user-images.githubusercontent.com/87711310/205491369-171c6158-c9f6-4bfb-b377-26de0dbe3ae1.png)
 
 ## Flag
 
