@@ -35,5 +35,5 @@ openssl des3 -d -salt -in file.dat -out file.txt -k supersecretpassword123
 ## Flag
 
 ```
-picoCTF{nc_73115_411_5786acc3}
+picoCTF{nc_73115_411_0ee7267a}
 ```
