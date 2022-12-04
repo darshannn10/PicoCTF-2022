@@ -21,7 +21,7 @@ The first user in usernames.txt corresponds to the first password in passwords.t
 
 ## Approach
 
-After find flag from corresponded username of `cultiris`. The flag covered with ROT13 cipher. We can able to decode by using terminal and also Online tools like [CyberChef](https://gchq.github.io/CyberChef/) as well.
+Firstly, open the `usernames.txt` file in notepad and note down the line on which the username cultiris is on. Then, open up the `passwords.txt` file and visit the exact same line number, the username `cultiris` was on and you will find an encrypted flagAfter find flag from corresponded username of `cultiris`. The flag covered with ROT13 cipher. We can able to decode by using terminal and also Online tools like [CyberChef](https://gchq.github.io/CyberChef/) as well.
 
 ```bash
 echo -n cvpbPGS{P7e1S_54I35_71Z3}| tr "A-Za-z" "N-ZA-Mn-za-m"
