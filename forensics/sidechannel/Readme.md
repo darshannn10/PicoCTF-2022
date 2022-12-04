@@ -8,7 +8,7 @@
 | ------ | ----------- |
 | Category | Forensics |
 | Challenge Name | Side Channel |
-| Points | 00 |
+| Points | 400 |
 
 ## Description
 
