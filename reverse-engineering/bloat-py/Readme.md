@@ -1,6 +1,6 @@
 # picoCTF 2022
 
-> Arvind Shima | March 18,2022
+> Darshan Patel
 
 ## Overview
 
